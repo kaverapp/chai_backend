@@ -1,0 +1,17 @@
+{
+  "name": "chai_back_deplo",
+  "version": "1.0.0",
+  "description": "my first deploying",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kaverappa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
